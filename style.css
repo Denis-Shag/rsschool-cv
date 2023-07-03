@@ -157,7 +157,7 @@ section {
     color: var(--bg-color);
     z-index: 1;
     overflow: hidden;
-    transition: .5s;
+    transition: .2s;
 }
 .btn-box .btn:hover {
     color: var(--main-color);
@@ -181,7 +181,7 @@ section {
     height: 100%;
     background: var(--bg-color);
     z-index: -1;
-    transition: .5s;
+    transition: .2s;
 }
 .btn-box .btn:hover::before {
     width: 100%;
@@ -207,7 +207,7 @@ section {
     color: var(--main-color);
     z-index: 1;
     overflow: hidden;
-    transition: .5s;
+    transition: .2s;
 }
 .home_sci a:hover {
     color: var(--bg-color);
@@ -221,7 +221,7 @@ section {
     height: 100%;
     background: var(--main-color);
     z-index: -1;
-    transition: .5s;
+    transition: .2s;
 }
 .home_sci a:hover::before {
     width: 100%;   
@@ -362,7 +362,7 @@ span {
     height: 100%;
     background: var(--second-bg-color);
     z-index: -1;
-    transition: .5s;
+    transition: .2s;
 }
 .education_content .content:hover::before {
     width: 100%;
@@ -426,7 +426,7 @@ span {
     height: 100%;
     background: var(--bg-color);
     z-index: -1;
-    transition: .5s;
+    transition: .2s;
 }
 .skills_box .skills_content:hover::before {
     width: 100%;
@@ -530,7 +530,7 @@ span {
     background: var(--second-bg-color);
     border-radius: .6rem;
     z-index: -1;
-    transition: .5s;
+    transition: .2s;
 }
 .contact form .input_box .input_field input:focus~.focus,
 .contact form .input_box .input_field input:valid~.focus,
@@ -588,7 +588,7 @@ span {
     height: 100%;
     background: var(--second-bg-color);
     z-index: -1;
-    transition: .5s;
+    transition: .2s;
 }
 .footer_iconTop a:hover::before {
     width: 100%;
@@ -596,7 +596,7 @@ span {
 .footer_iconTop a i {
     font-size: 2.4rem;
     color: var(--bg-color);
-    transition: .5s;
+    transition: .2s;
 }
 .footer_iconTop a:hover i {
     color: var(--main-color);
