@@ -601,7 +601,10 @@ span {
 .footer_iconTop a:hover i {
     color: var(--main-color);
 }
-
+.rs_logo {
+    filter:
+    drop-shadow(3px 3px 10px #5f17e5);
+}
 
 .animate {
     position: absolute;
